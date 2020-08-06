@@ -1,4 +1,5 @@
-ud120-projects
+Projects from Introduction to Machine Learning Course (from Udacity)
 ==============
 
-Starter project code for students taking Udacity ud120
+In addition to the projects below, this repository includes modifications to run using python3 and docker. Projects developed during the course are listed bellow.
+
